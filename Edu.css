@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(217, 206, 228);    
+    background-color: #15aad7;    
 }
 .inicio {
     background-color: #d00;
@@ -17,7 +17,7 @@ body{
 }
 
 .img {
-    margin: 0 650px;
+    margin: 0 600px;
 }
 img {
     margin-left: 50px;
